@@ -13,8 +13,12 @@ header {
 }
 
 .logo {
-  width: 80px;
+  width: 100px;
   margin-bottom: 1rem;
+  background: white;
+  padding: 8px;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
 }
 
 header h1 {
